@@ -1,20 +1,26 @@
 <div align="center">
 
+# 👋 I'm Mohamed Ismail
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders" />  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Workspace" />  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=I'm+Mohamed+Ismail;AI+%26+Data+Science+Enthusiast;Problem+Solver+%7C+ECPC+Contestant;Electronics+%26+Arduino+Maker)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 👋 About Me
+### 🧠 About Me
 
 💡 **Name:** Mohamed Ismail  
 🎓 **Student at the Faculty of Computers and Information – Egyptian Chinese University**  
 🤖 Passionate about **Artificial Intelligence** and **Data Science**  
-🧠 Currently learning **Firebase**, **Python**, and **C++**  
-🧩 Interested in **problem-solving** and actively preparing for **ECPC (Egyptian Collegiate Programming Contest)**  
-📊 Exploring the fields of **Machine Learning** and **Data Analysis**  
+🧩 Interested in **Problem Solving** and preparing for **ECPC (Egyptian Collegiate Programming Contest)**  
+🧠 Skilled in **C++**, **Python**, and **Firebase**  
+🔌 I have hands-on experience in **Electronics** and **Arduino Programming**  
+🔧 Worked with various **electronic tools and components** in multiple Arduino-based projects  
+📊 Exploring the fields of **Machine Learning** and **Data Analysis**
 
 ---
 
@@ -23,26 +29,27 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-07405E?style=flat&logo=sqlite&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics-%23FF6F00?style=flat&logo=atom&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🔭 Currently Working On
+### 🔭 What I'm Working On
 
-- Learning Firebase for app and backend development  
-- Improving my problem-solving skills in C++ and Python  
-- Preparing for **ECPC 2025**  
-- Exploring machine learning basics with Python libraries  
+- Practicing algorithms and preparing for **ECPC**
+- Exploring AI and data analysis techniques using Python
+- Building smart systems using **Arduino and electronics**
+- Enhancing backend skills using **Firebase**
 
 ---
 
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/mohamed-ismail-517b19326)
-- 📬 Always open to networking and new opportunities!
+- 📬 Always open to collaboration and opportunities!
 
 ---
 
@@ -63,7 +70,7 @@
 
 ---
 
-⭐ Thanks for stopping by! If you like any of my projects, feel free to leave a ⭐  
+⭐ **Thanks for visiting! If you like my projects, feel free to leave a ⭐**  
 
 
 
