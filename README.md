@@ -2,7 +2,7 @@
 
  Mohamed Ismail
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders" />  
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Workspace" />  
  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=I'm+Mohamed+Ismail;AI+%26+Data+Science+Enthusiast;Problem+Solver+%7C+ECPC+Contestant;Electronics+%26+Arduino+Maker)](https://git.io/typing-svg)
