@@ -1,9 +1,9 @@
 <div align="center">
 
-# Mohamed Ismail | محمد اسماعيل
+ Mohamed Ismail
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello Coders" />  
  
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" alt="Workspace" />  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=435&lines=I'm+Mohamed+Ismail;AI+%26+Data+Science+Enthusiast;Problem+Solver+%7C+ECPC+Contestant;Electronics+%26+Arduino+Maker)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 
 ### 🧠 About Me
 
-💡 **Name:** Mohamed Ismail  
+💡 **Name:** Mohamed Ismail Helmy
 🎓 **Student at the Faculty of Computers and Information – Egyptian Chinese University**  
 🤖 Passionate about **Artificial Intelligence** and **Data Science**  
 🧩 Interested in **Problem Solving** and preparing for **ECPC (Egyptian Collegiate Programming Contest)**  
@@ -53,24 +53,11 @@
 
 ---
 
-### 📈 GitHub Stats
+### 💡 My Skills Overview
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+  <img src="https://skillicons.dev/icons?i=cpp,python,firebase,arduino,linux,git,vscode" width="70%" />
 </div>
-
----
-
-### ⚡ Fun Fact
-
-> Sometimes your code works... and you don’t know how. That’s magic 😄  
-> Competing in ECPC to turn bugs into breakthroughs 💪
-
----
-
-⭐ **Thanks for visiting! If you like my projects, feel free to leave a ⭐**  
 
 
 
